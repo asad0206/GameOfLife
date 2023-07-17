@@ -1,1 +1,3 @@
 jar file in out/artifacts/GameOfLife_jar
+
+use gol.jar working
