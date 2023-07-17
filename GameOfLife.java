@@ -109,7 +109,7 @@ public class GameOfLife extends JFrame {
                         count++;
                     }
                 } catch (Exception e) {
-                    // TODO: handle exception
+                    // handle exception
                 }
             }
         }
